@@ -7,3 +7,6 @@ learning hours 120
 
 tests 15
 >>>>>>> css-assignments
+
+
+about javascript
