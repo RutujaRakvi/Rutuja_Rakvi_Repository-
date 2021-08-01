@@ -8,4 +8,9 @@ learning hours 120
 tests 15
 >>>>>>> css-assignments
 
+<<<<<<< HEAD
 on different lines
+=======
+
+about javascript
+>>>>>>> js-assignments
